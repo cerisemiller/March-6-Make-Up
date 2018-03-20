@@ -8,3 +8,9 @@ are having trouble with and which ones have been "mastered". Since jQuery method
 came in as the topic most students were having issues with, Rich went through an
 ad-hoc activity to go over some popular methods and how to use them.
 
+The "This Example" activity was more challenging than expected. Although I was 
+able to get the first few examples correct, the bonus ones were very difficult 
+to understand. Although the concept of this is challenging, I also think it has
+to do with my confusion around the structure of functions. This is definitely
+something I need to spend more time working on.
+
