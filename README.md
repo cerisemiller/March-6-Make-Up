@@ -14,3 +14,7 @@ to understand. Although the concept of this is challenging, I also think it has
 to do with my confusion around the structure of functions. This is definitely
 something I need to spend more time working on.
 
+The jQuery Calculator activity left me feeling completely stranded. I ended up 
+waiting until Rich went over the code line by line at the end of the session
+since I did not have a team or classmates to work with. I definitely thing jQuery 
+is my weakest area and needs the most of my attention. 
